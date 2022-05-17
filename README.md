@@ -1,6 +1,6 @@
 # ACA2021
 ![Version](https://img.shields.io/static/v1?label=ACA2021&message=0.1&color=brightcolor)
-[![License: MIT](https://img.shields.io/badge/License-GNU-blue.svg)]
+![License: GNU](https://img.shields.io/badge/License-GNU-blue.svg)
 
 
 The PDF file above contains the slides to the talk *Literate programming with CCTBX and PyMOL in Jupyter notebooks* given on August 3, 2021 at the annual meeting of the American Crystallographic Association.
