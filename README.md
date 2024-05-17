@@ -1,6 +1,6 @@
 # ACA2021
-![Version](https://img.shields.io/static/v1?label=ACA2021&message=0.1&color=brightcolor)
-![License: GNU](https://img.shields.io/badge/License-GNU-blue.svg)
+![Version](https://img.shields.io/static/v1?label=ACA2021&message=0.2&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
 The PDF file above contains the slides to the talk *Literate programming with CCTBX and PyMOL in Jupyter notebooks* given on August 3, 2021 at the annual meeting of the American Crystallographic Association.
@@ -25,3 +25,8 @@ This work is supported in part by the following funding sources:
 - [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips)
 - [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips)
 - [PyMOLwallhangings](https://github.com/MooersLab/PyMOLwallhangings)
+
+## Update history
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.2 |  Added update table.                                                                                                                       | 2024 May 17          |
